@@ -1,0 +1,7 @@
+.Rproj.user/
+.Rhistory
+*.RData
+!workspace/assignmentworkspace.RData
+.quarto/
+models/*.rds
+!models/.gitkeep
